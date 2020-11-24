@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Part A",
+            "price": "111"
+        },
+        {
+            "id": "2",
+            "name": "Part B",
+            "price": "222"
+        },
+        {
+            "id": "333",
+            "name": "Klara",
+            "price": "333"
+        },
+        {
+            "id": "4",
+            "name": "kaps",
+            "price": "444"
+        }
+    ]
+}

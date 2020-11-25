@@ -1,7 +1,6 @@
 import json
 import os
 
-import flask
 import requests
 from flask import Flask, request
 from flask.helpers import url_for
